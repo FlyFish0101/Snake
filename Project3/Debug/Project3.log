@@ -1,0 +1,4 @@
+﻿  源.cpp
+e:\vscode\eating snake\project3\源.cpp(39): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\vscode\eating snake\project3\源.cpp(93): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Project3.vcxproj -> E:\VScode\Eating Snake\Debug\Project3.exe
